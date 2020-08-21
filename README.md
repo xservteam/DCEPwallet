@@ -1,2 +1,2 @@
-# DECPwallet
-DECP钱包
+# DCEPwallet
+DCEP钱包
